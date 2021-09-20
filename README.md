@@ -5,5 +5,6 @@
 # npx cypress open
 # or
 # yarn run cypress open
+# Script route: Simetrik-QA/cypress/integration/simetrik-TC01.spec.js
 -----
 # Check demo video for more details
